@@ -40,3 +40,4 @@ For rate-limiting, we are using a redis instance. In order for this to work, you
 For local development you will need to install redis on your local machine, and start the service. Make sure to set the `REDIS_CONNECTION_STRING` in your `.env` file
 "# parse-server-migration" 
 # self-hosting-sever
+# self-hosting-sever
