@@ -41,3 +41,4 @@ For local development you will need to install redis on your local machine, and 
 "# parse-server-migration" 
 # self-hosting-sever
 # self-hosting-sever
+# self-hosting-sever
