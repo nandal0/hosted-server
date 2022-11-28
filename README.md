@@ -43,3 +43,4 @@ For local development you will need to install redis on your local machine, and 
 # self-hosting-sever
 # self-hosting-sever
 # moralis-server
+# moralis-server
