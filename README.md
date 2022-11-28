@@ -45,3 +45,4 @@ For local development you will need to install redis on your local machine, and 
 # moralis-server
 # moralis-server
 # moralis-server
+# hosted-server
